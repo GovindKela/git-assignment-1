@@ -2,6 +2,6 @@
 
 # updating the file
 
-maraton
+marathon
 python
 azure
